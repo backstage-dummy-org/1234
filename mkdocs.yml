@@ -1,0 +1,10 @@
+site_name: 1234
+site_description: example
+docs_dir: docs
+nav:
+  - docs:
+    - release-notes:
+        - template: release-notes/template.md
+
+plugins:
+  - techdocs-core
